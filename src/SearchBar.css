@@ -1,0 +1,17 @@
+/* SearchBar.css */
+.SearchBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+
+.SearchButton {
+  background-color: #1db954;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}

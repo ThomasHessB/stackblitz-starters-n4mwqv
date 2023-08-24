@@ -1,0 +1,11 @@
+/* App.css */
+.App {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.App-playlist {
+  display: flex;
+  justify-content: space-between;
+}
